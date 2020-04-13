@@ -1,0 +1,3 @@
+# Test go project
+
+Simple wiki example, as described at https://golang.org/doc/articles/wiki/
